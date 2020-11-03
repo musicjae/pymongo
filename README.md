@@ -12,6 +12,7 @@ mongodb에 있는 데이터를 python을 이용하여 제어하기 위해 pymong
 
 - [Create a Python Application using PyMongo and MongoDB Database in Coursera](https://github.com/musicjae/pymongo/tree/main/Coursera_python%20and%20MongoDB%20with%20pymango)  
   - Reference [3] 참고 및 발췌  
+  ![mongodbimg](img/coursera1.PNG)
 
 ### Reference  
 
