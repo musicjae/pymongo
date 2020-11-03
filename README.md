@@ -4,10 +4,12 @@ mongodb에 있는 데이터를 python을 이용하여 제어하기 위해 pymong
 ​    
 
 - [pymongo_tutorial](https://github.com/musicjae/pymongo/tree/main/pymongo_tutorial)  
-  - Reference [1] 참고
+  - Reference [1],[2] 참고
 
  
 
 ### Reference  
 
- [1] http://zetcode.com/python/pymongo/
+ [1] http://zetcode.com/python/pymongo/  
+
+ [2] https://www.youtube.com/watch?v=YbLzV90dksE
