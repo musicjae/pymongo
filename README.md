@@ -16,12 +16,8 @@ mongodb에 있는 데이터를 python을 이용하여 제어하기 위해 pymong
 
 ### Reference  
 
- [1] http://zetcode.com/python/pymongo/  
+[1] http://zetcode.com/python/pymongo/  
 
-<<<<<<< HEAD
- [2] https://www.youtube.com/watch?v=YbLzV90dksE  
+[2] https://www.youtube.com/watch?v=YbLzV90dksE  
 
 [3] https://www.coursera.org/learn/python-application-pymango-mongodb-database/home/welcome
-=======
- [2] https://www.youtube.com/watch?v=YbLzV90dksE
->>>>>>> 0014045bc9bf5a675d5b92151d03010f4bbaa7d9
