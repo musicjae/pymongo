@@ -1,7 +1,7 @@
 # pymongo
 
 
-![mongodbimg](C:\Users\USER\Desktop\gitgit\pymongo\img\mongodbimg.jpg)
+![mongodbimg](img/mongodbimg.jpg)
 
 mongodb에 있는 데이터를 python을 이용하여 제어하기 위해 pymongo에 대해 공부한다.  
 
@@ -17,6 +17,10 @@ mongodb에 있는 데이터를 python을 이용하여 제어하기 위해 pymong
 
  [1] http://zetcode.com/python/pymongo/  
 
+<<<<<<< HEAD
  [2] https://www.youtube.com/watch?v=YbLzV90dksE  
 
 [3] https://www.coursera.org/learn/python-application-pymango-mongodb-database/home/welcome
+=======
+ [2] https://www.youtube.com/watch?v=YbLzV90dksE
+>>>>>>> 0014045bc9bf5a675d5b92151d03010f4bbaa7d9
